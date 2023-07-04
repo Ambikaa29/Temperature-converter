@@ -1,2 +1,2 @@
 # Temperature-converter
-An application to convert the temperature value from one form to other.
+An application that helps in conversion of measurment units.
